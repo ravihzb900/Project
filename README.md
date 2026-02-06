@@ -1,3 +1,2 @@
 # Project
-SuperMarket Inventory Management System 
-Ahbijeet Sain
+SuperMarket Inventory Management System
